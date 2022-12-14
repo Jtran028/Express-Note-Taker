@@ -12,6 +12,8 @@ npm i
   * 
 ## Screenshots 
 ![](.public/../public/assets/img/DEMO.gif)
+  * This application is deployed on https://tranquil-hollows-56245.herokuapp.com/
+
 ## Reach Me @:
 * Github: Jtran028 LINK: (https://github.com/Jtran028)
 * Email: jtran028@gmail.com
